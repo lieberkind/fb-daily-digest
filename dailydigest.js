@@ -1,4 +1,4 @@
-var Q = require('Q');
+var Q = require('q');
 var request = require('request');
 var moment = require('moment');
 var CONFIG = require('./config');
