@@ -1,0 +1,16 @@
+{
+  "name": "fb-daily-digest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dailydigest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.11.2",
+    "q": "^1.4.1",
+    "request": "^2.69.0"
+  }
+}
