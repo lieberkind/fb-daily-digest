@@ -1,0 +1,12 @@
+{
+    "sender": "sender@example.com",
+    "recipient": "receiver@example.com",
+
+    "fbId": "YOUR_FB_ID",
+    "feedKey": "YOUR_NOTIFICATION_FEED_ID",
+
+    "mailgun": {
+        "domain": "email.example.com",
+        "apiKey": "MAILGUN_SECRET_KEY"
+    }
+}
